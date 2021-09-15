@@ -13,27 +13,6 @@
 
 <h3><img height="17" src="https://user-images.githubusercontent.com/37072691/133508704-8b16ba22-c6a4-4d10-a994-2aa1f3a0df65.png">&nbsp; About us</h3>
 
-We write software, and we're passionate about it. We like to see what's possible with software, how it can help your business and we find the process exciting.
-We also develop tools such as [Cinnamon](https://github.com/apollosoftwarexyz/cinnamon) and [Archer](https://github.com/apollosoftwarexyz/archer) that we use
-internally and share them with the open source community.
-
-We've also contributed to popular open source projects such as the [Hoppscotch](https://hoppscotch.io) and [Proxyscotch](https://github.com/hoppscotch/proxyscotch)
-projects.
-
-<br>
-
-### ⚙️ Our tech stack
-
-We love trying new tech, but our tried and true 'tech stack' (meaning the technologies we typically use to write software) is:
-- **Database:** [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org)
-- **Backend Web Service:** [TypeScript](https://www.typescriptlang.org), [Koa.js](https://koajs.com)/[Express.js](https://expressjs.com)
-- **Web Development:** [Nuxt.js](https://nuxtjs.org)
-- **Mobile App Development:** [Flutter](https://flutter.dev)
-
-<br>
-
-### 🧑‍💻 Meet the team
-
 <table>
   <tr>
     <td>
@@ -56,3 +35,19 @@ We love trying new tech, but our tried and true 'tech stack' (meaning the techno
     </td>
   </tr>
 </table>
+
+We write software, and we're passionate about it. We like to see what's possible with software, how it can help your business and we find the process exciting.
+We also develop tools such as [Cinnamon](https://github.com/apollosoftwarexyz/cinnamon) and [Archer](https://github.com/apollosoftwarexyz/archer) that we use
+internally and share them with the open source community.
+
+We've also contributed to popular open source projects such as the [Hoppscotch](https://hoppscotch.io) and [Proxyscotch](https://github.com/hoppscotch/proxyscotch)
+projects.
+
+
+### ⚙️ Our tech stack
+
+We love trying new tech, but our tried and true 'tech stack' (meaning the technologies we typically use to write software) is:
+- **Database:** [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org)
+- **Backend Web Service:** [TypeScript](https://www.typescriptlang.org), [Koa.js](https://koajs.com)/[Express.js](https://expressjs.com)
+- **Web Development:** [Nuxt.js](https://nuxtjs.org)
+- **Mobile App Development:** [Flutter](https://flutter.dev)
