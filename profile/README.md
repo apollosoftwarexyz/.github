@@ -11,9 +11,7 @@
 
 ---
 
-<h3><img height="17" src="https://user-images.githubusercontent.com/37072691/133508704-8b16ba22-c6a4-4d10-a994-2aa1f3a0df65.png">&nbsp; About us</h3>
-
-<table>
+<table align="center">
   <tr>
     <td>
       <p align="center">
@@ -35,6 +33,8 @@
     </td>
   </tr>
 </table>
+
+<h3><img height="17" src="https://user-images.githubusercontent.com/37072691/133508704-8b16ba22-c6a4-4d10-a994-2aa1f3a0df65.png">&nbsp; About us</h3>
 
 We write software, and we're passionate about it. We like to see what's possible with software, how it can help your business and we find the process exciting.
 We also develop tools such as [Cinnamon](https://github.com/apollosoftwarexyz/cinnamon) and [Archer](https://github.com/apollosoftwarexyz/archer) that we use
