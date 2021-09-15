@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://apollosoftware.xyz/">Website</a> |
   <a href="https://www.linkedin.com/company/apollosoftwarelimited/">LinkedIn</a> |
+  <a href="https://twitter.com/apolloswxyz">Twitter</a> |
   <a href="https://www.instagram.com/apollosoftwarexyz/">Instagram</a>
 </p>
 
