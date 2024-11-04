@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://apollosoftware.xyz/"><img height="96" src="https://github.com/user-attachments/assets/bfc3fcc7-7bd6-4cfb-80b5-fb54ddabd66b" alt="Apollo Software"></a>
+  <a href="https://apollosoftware.xyz/"><img height="96" src="https://github.com/user-attachments/assets/c9222781-1c84-44ed-a1b1-693c8bb1661c" alt="Apollo Software"></a>
 </p>
 <p align="center">We build elegant and intuitive software that meets your requirements and exceeds your expectations.</p>
 <p align="center">
